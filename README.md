@@ -2,7 +2,8 @@
 ======================
 可以无限制的添加图片
 ------------------
-http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/2.pic.png
+![alt text](http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/2.pic.png)
+
 实现抖动删除
 ----------------
-http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/3.pic.png
+![alt text](http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/3.pic.png)
