@@ -6,5 +6,5 @@
 ----------------
 
 
-http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/2.pic.jpg
-http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/3.pic.jpg
+http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/2.pic.png
+http://github.com/taoyang5220@126.com/PhotoPicker/raw/master/3.pic.png
